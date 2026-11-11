@@ -229,6 +229,4 @@ An application project exploring programming, functionality, and creative proble
 
 <br/><br/>
 
-**CODE WITH PASSION. BUILD WITH PURPOSE.**
-
 </div>
