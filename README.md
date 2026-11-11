@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**ssyahrezaa-IMPHNEN/ssyahrezaa-IMPHNEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ================= BANNER ================= -->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/ssyahrezaa-IMPHNEN/ssyahrezaa-IMPHNEN/main/assets/banner.gif" width="100%" alt="Anime GIF Banner" />
+
+<br/>
+
+# Hi there, I'm <span style="color:#e879c9;">Reza!</span>
+
+### Full Stack Developer | Tech Enthusiast | Lifelong Learner
+
+*Building amazing projects and exploring the world of technology.*
+
+</div>
+
+---
+
+<!-- ================= ABOUT ME ================= -->
+
+<!-- ================= TECH STACK ================= -->
+
+## ⚡ Tech Stack & Ecosystem
+
+<div align="center">
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,cpp&theme=dark" />
+
+<br/><br/>
+
+**Frameworks & Runtime**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
+
+<br/><br/>
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+*Crafting code, solving real-world problems.*
+
+</div>
