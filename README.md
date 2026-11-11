@@ -47,7 +47,6 @@ I love turning ideas into functional applications, experimenting with different 
 - 🎨 Creative UI & Web Design
 - 🚀 Building useful digital projects
 - 🌱 Learning new technologies
-- ✨ Exploring the intersection of creativity and code
 
 </td>
 <td width="40%" valign="middle">
@@ -74,7 +73,7 @@ I love turning ideas into functional applications, experimenting with different 
 
 <div align="center">
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack & Ecosystem
 
 *Technologies and tools I use to bring ideas to life.*
 
