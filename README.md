@@ -26,13 +26,13 @@
 
 <div align="center">
 
-##  ✦ About Me  ✦
+## ✦ About Me ✦
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="middle">
 
 ### Hello, I'm Reza!
 
@@ -69,41 +69,49 @@ I love turning ideas into functional applications, experimenting with different 
 
 <div align="center">
 
-##  ✦ Tech Stack & Ecosystem  ✦
+## ✦ Tech Stack & Ecosystem ✦
 
 *Technologies and tools I use to bring ideas to life.*
 
-</div>
+<br/>
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%" valign="middle">
 
 ### 💻 Languages
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,cpp&theme=dark&perline=3" />
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%" valign="middle">
 
 ### ⚙️ Frameworks
 
-<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark&perline=2" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark&perline=3" />
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%" valign="middle">
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=2" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -113,16 +121,16 @@ I love turning ideas into functional applications, experimenting with different 
 
 <div align="center">
 
-##  ✦ Currently Exploring  ✦
+## ✦ Currently Exploring ✦
 
 *Always learning. Always building.*
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/>
 
@@ -132,7 +140,7 @@ I love turning ideas into functional applications, experimenting with different 
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/>
 
@@ -142,7 +150,7 @@ I love turning ideas into functional applications, experimenting with different 
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>
 
@@ -167,12 +175,14 @@ I love turning ideas into functional applications, experimenting with different 
 
 <br/>
 
-### <span style="color:#e879c9;">✦ Thanks for visiting my profile ✦</span>
+### ✦ Thanks for visiting my profile ✦
 
 *Crafting code, solving problems, and creating something meaningful.*
 
 <br/>
 
 <br/>
+
+<br/><br/>
 
 </div>
