@@ -1,20 +1,19 @@
 
 <!-- ================================================== -->
-<!--                  ANIME HERO BANNER                 -->
+<!--                    HERO BANNER                     -->
 <!-- ================================================== -->
 
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="Anime Aesthetic Banner" />
+<img src="./assets/banner.gif" width="100%" alt="Anime Banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E879C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Reza+%F0%9F%91%8B;Full+Stack+Developer;Turning+Ideas+Into+Digital+Experiences;Welcome+To+My+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E879C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Reza!;Full+Stack+Developer;Turning+Ideas+Into+Digital+Experiences;Welcome+To+My+GitHub!" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-e879c9?style=for-the-badge&labelColor=171321" />
-
 <img src="https://img.shields.io/badge/BASED%20IN-INDONESIA-9b8cff?style=for-the-badge&labelColor=171321" />
 
 </div>
@@ -22,12 +21,12 @@
 ---
 
 <!-- ================================================== -->
-<!--                    ABOUT ME                       -->
+<!--                     ABOUT ME                       -->
 <!-- ================================================== -->
 
 <div align="center">
 
-## 🌸 About Me
+##  ✦ About Me  ✦
 
 </div>
 
@@ -43,15 +42,14 @@ I love turning ideas into functional applications, experimenting with different 
 
 **What I'm passionate about:**
 
-- 💻 Full Stack Web Development
-- 🎨 Creative UI & Web Design
-- 🚀 Building useful digital projects
-- 🌱 Learning new technologies
+- Full Stack Web Development
+- Creative UI & Web Design
+- Building useful digital projects
+- Learning new technologies
 
 </td>
-<td width="40%" valign="middle">
 
-<div align="center">
+<td width="40%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs&theme=dark&perline=4" />
 
@@ -59,8 +57,6 @@ I love turning ideas into functional applications, experimenting with different 
 
 **CODE • CREATE • INNOVATE**
 
-</div>
-
 </td>
 </tr>
 </table>
@@ -68,12 +64,12 @@ I love turning ideas into functional applications, experimenting with different 
 ---
 
 <!-- ================================================== -->
-<!--                    TECH ARSENAL                   -->
+<!--                    TECH ARSENAL                    -->
 <!-- ================================================== -->
 
 <div align="center">
 
-## ⚡ Tech Stack & Ecosystem
+##  ✦ Tech Stack & Ecosystem  ✦
 
 *Technologies and tools I use to bring ideas to life.*
 
@@ -81,107 +77,51 @@ I love turning ideas into functional applications, experimenting with different 
 
 <table>
 <tr>
-<td align="center" width="33%">
+
+<td align="center" width="33%" valign="top">
 
 ### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,cpp&theme=dark&perline=3" />
 
 </td>
-<td align="center" width="33%">
+
+<td align="center" width="33%" valign="top">
 
 ### ⚙️ Frameworks
 
 <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark&perline=2" />
 
 </td>
-<td align="center" width="33%">
+
+<td align="center" width="33%" valign="top">
 
 ### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=2" />
 
 </td>
+
 </tr>
 </table>
 
 ---
 
 <!-- ================================================== -->
-<!--                 FEATURED PROJECTS                 -->
+<!--                CURRENTLY EXPLORING                 -->
 <!-- ================================================== -->
 
 <div align="center">
 
-## 🚀 Featured Projects
-
-*Some of my projects and experiments.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🌐 Web Development
-
-<img src="https://img.shields.io/badge/PROJECT-01-e879c9?style=flat-square&labelColor=171321" />
-
-</div>
-
-A web development project focused on creating a modern and functional digital experience.
-
-**Tech:** HTML • CSS • JavaScript
-
-<div align="center">
-
-[View Repository ↗](https://github.com/ssyahrezaa-IMPHNEN/REPOSITORY_NAME)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### ⚡ Application Development
-
-<img src="https://img.shields.io/badge/PROJECT-02-9b8cff?style=flat-square&labelColor=171321" />
-
-</div>
-
-An application project exploring programming, functionality, and creative problem-solving.
-
-**Tech:** Python • JavaScript
-
-<div align="center">
-
-[View Repository ↗](https://github.com/ssyahrezaa-IMPHNEN/REPOSITORY_NAME)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================================================== -->
-<!--                CURRENTLY EXPLORING                -->
-<!-- ================================================== -->
-
-<div align="center">
-
-## 🌱 Currently Exploring
+##  ✦ Currently Exploring  ✦
 
 *Always learning. Always building.*
 
-</div>
+<br/>
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/>
@@ -191,6 +131,7 @@ An application project exploring programming, functionality, and creative proble
 <sub>Modern UI Development</sub>
 
 </td>
+
 <td align="center" width="33%">
 
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/>
@@ -200,6 +141,7 @@ An application project exploring programming, functionality, and creative proble
 <sub>Backend Development</sub>
 
 </td>
+
 <td align="center" width="33%">
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>
@@ -209,23 +151,28 @@ An application project exploring programming, functionality, and creative proble
 <sub>Programming & Automation</sub>
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
 <!-- ================================================== -->
-<!--                     FOOTER                        -->
+<!--                       FOOTER                       -->
 <!-- ================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:171321,50:30204b,100:171321&height=100&section=footer" width="100%" />
+<br/>
 
-### ✦ Thanks for visiting my profile ✦
+### <span style="color:#e879c9;">✦ Thanks for visiting my profile ✦</span>
 
-<sub>Crafting code, solving problems, and creating something meaningful.</sub>
+*Crafting code, solving problems, and creating something meaningful.*
 
-<br/><br/>
+<br/>
+
+<br/>
 
 </div>
